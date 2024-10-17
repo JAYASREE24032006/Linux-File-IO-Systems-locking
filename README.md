@@ -95,7 +95,7 @@ C program that illustrates files copying
 
 C program that illustrates files locking
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ad839620-bd65-4e87-840d-10cf14834fe3)
 
 
 
